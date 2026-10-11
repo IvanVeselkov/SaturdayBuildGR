@@ -31,7 +31,7 @@ VR-приложение для Всероссийского хакатона **�
 1. Установите **Unity 6000.5.3f1** через Unity Hub (модуль *Windows Build Support (IL2CPP)*).
 2. Склонируйте репозиторий:
    ```bash
-   git clone <ссылка на этот репозиторий>
+   git clone https://github.com/IvanVeselkov/SaturdayBuildGR
    ```
 3. В Unity Hub: **Add → Add project from disk** → выберите папку `src`.
 4. Дождитесь импорта ассетов (первый запуск может занять несколько минут).
