@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9d95acecda47254185c31eef8a2e287, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::GoldenRing.Core.GameConfig
+  cities:
+  - {fileID: 11400000, guid: 69dfadfcc1c566a4fb99c2b38412ea17, type: 2}
+  - {fileID: 11400000, guid: 19fad73b7e4362e41a7f3caf71e86602, type: 2}
+  - {fileID: 11400000, guid: 61db153306397d243a8be57fbfc28645, type: 2}
+  - {fileID: 11400000, guid: 01b422b7ef91235479c35d55a11b7b8d, type: 2}
+  - {fileID: 11400000, guid: df014f5ae374653479f82908ba41434f, type: 2}
+  - {fileID: 11400000, guid: 63ccade3376dfa848a2b12933324d604, type: 2}
+  - {fileID: 11400000, guid: 7f14f451907ef964bb48f3a7a85369ea, type: 2}
+  - {fileID: 11400000, guid: b8125ad70bed63d4b93aec2281cbf655, type: 2}
+  - {fileID: 11400000, guid: 967e9c7c9b37c9748b36288d200fd03e, type: 2}

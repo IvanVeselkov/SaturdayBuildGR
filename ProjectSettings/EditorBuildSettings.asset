@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Core/Bootstrap.unity
+    guid: a9b04f118ad1db540a2a25f728920361
+  - enabled: 1
+    path: Assets/_Project/Scenes/Core/Lobby.unity
+    guid: 0cc6bac222a21364b9765c53efeaf7a1
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Yaroslavl.unity
+    guid: 9336d6fc54c3399439bf8b9f6229cf7f
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Kostroma.unity
+    guid: 7706915873f9b6846a00f5ab37fe5183
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Quiz_Kostroma.unity
+    guid: 8d39a029c8d7b8744ae6f7ac11bc9aa6
+  - enabled: 0
+    path: Assets/_Project/Scenes/_Sandbox/Eugen_GuideTest.unity
+    guid: 562d6c05d5004584fbe16667e521e38c
+  - enabled: 1
+    path: Assets/_Project/Scenes/Core/Finale.unity
+    guid: 4db2d3c44d4c52c42ad0fa8e1dd31f1f
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Ivanovo.unity
+    guid: e9fb3448d6add2d428018d061eb3cef4
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_PereslavlZ.unity
+    guid: 8c32c6bd8b1134249aee3f5c39998dc4
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Kostroma.unity
+    guid: 2231d57e0d10dbd4b8ef650c71958128
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Yaroslavl.unity
+    guid: 5c0925f7cdb784b4397c44118a066349
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Rostov.unity
+    guid: e857e3681455200429e2da008443dd07
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Pereslavl.unity
+    guid: a5009cf0b7e1aaf4b98c0776c14d1aec
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_SergievPosad.unity
+    guid: 6c7c702fbd857404396acc20084513a6
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Moscow.unity
+    guid: 260bcf42e6a075745be4b041ab5cb73c
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Vladimir.unity
+    guid: 6cfabd3fbe79e284c8b214304ad627da
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Suzdal.unity
+    guid: 351a38f38d9cb7c459b9f655dede7484
+  - enabled: 1
+    path: Assets/_Project/Scenes/Quizzes/Tanya_Ivanovo.unity
+    guid: 8dc2c7606c729f04d9fe029dd7a7a331
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_SergievPosad.unity
+    guid: cecd14ac1b2e6494ba972d31859aae2f
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Vladimir.unity
+    guid: 70d42987cde2ec74d81859251a3e3789
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Suzdal.unity
+    guid: e0c1b90aed3ee044badc2ccf0fcaa571
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5f47087984dda8143ac63a98f635a4c5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 623a040054784c9409473beed727de69, type: 2}

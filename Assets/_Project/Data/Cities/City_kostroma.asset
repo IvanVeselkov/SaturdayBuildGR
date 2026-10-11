@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92586329a66387d4db4b57e74e96034e, type: 3}
+  m_Name: City_kostroma
+  m_EditorClassIdentifier: Assembly-CSharp::GoldenRing.Core.CityData
+  id: kostroma
+  displayName: "\u041A\u043E\u0441\u0442\u0440\u043E\u043C\u0430"
+  order: 0
+  citySceneName: City_Kostroma
+  quizSceneName: Tanya_Kostroma
+  artifactId: kostroma_meteorite
+  artifactDisplayName: "\u041E\u0431\u043B\u043E\u043C\u043E\u043A \u043C\u0435\u0442\u0435\u043E\u0440\u0438\u0442\u0430"
+  artifactPrefab: {fileID: 5837820492304844533, guid: 9434fc0ebeece034ba461a55d39327d2, type: 3}
