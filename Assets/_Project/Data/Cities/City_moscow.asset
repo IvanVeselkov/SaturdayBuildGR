@@ -19,4 +19,4 @@ MonoBehaviour:
   quizSceneName: Tanya_Moscow
   artifactId: moscow_gear
   artifactDisplayName: "\u0428\u0435\u0441\u0442\u0435\u0440\u0451\u043D\u043A\u0430"
-  artifactPrefab: {fileID: 0}
+  artifactPrefab: {fileID: 4974578612588380512, guid: 7615f3e067a76234784c105e62177841, type: 3}

@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/_Project/Scenes/Cities/City_Yaroslavl.unity
     guid: 9336d6fc54c3399439bf8b9f6229cf7f
   - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Rostov.unity
+    guid: 2d79b1f3606adb54594b92351cb709eb
+  - enabled: 1
     path: Assets/_Project/Scenes/Cities/City_Kostroma.unity
     guid: 7706915873f9b6846a00f5ab37fe5183
   - enabled: 1
@@ -68,6 +71,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Scenes/Cities/City_Suzdal.unity
     guid: e0c1b90aed3ee044badc2ccf0fcaa571
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cities/City_Moscow.unity
+    guid: e3ecefdf599031b4f996bfc9d6bb8ec6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5f47087984dda8143ac63a98f635a4c5, type: 2}

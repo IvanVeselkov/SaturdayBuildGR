@@ -19,4 +19,4 @@ MonoBehaviour:
   quizSceneName: Tanya_Rostov
   artifactId: rostov_enamel
   artifactDisplayName: "\u041F\u043B\u0430\u0441\u0442\u0438\u043D\u0430 \u0444\u0438\u043D\u0438\u0444\u0442\u0438"
-  artifactPrefab: {fileID: 0}
+  artifactPrefab: {fileID: 3146382663445223448, guid: f1ed5c67e0049714da1e59e8ff0ca8d8, type: 3}
